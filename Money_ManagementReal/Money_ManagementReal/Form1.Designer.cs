@@ -34,14 +34,15 @@
             this.button3 = new System.Windows.Forms.Button();
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Date
             // 
             this.Date.FormattingEnabled = true;
-            this.Date.Location = new System.Drawing.Point(317, 12);
+            this.Date.Location = new System.Drawing.Point(306, 12);
             this.Date.Name = "Date";
-            this.Date.Size = new System.Drawing.Size(121, 21);
+            this.Date.Size = new System.Drawing.Size(147, 21);
             this.Date.TabIndex = 3;
             this.Date.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -68,9 +69,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(696, 376);
+            this.button3.Location = new System.Drawing.Point(681, 376);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(74, 50);
+            this.button3.Size = new System.Drawing.Size(89, 50);
             this.button3.TabIndex = 6;
             this.button3.Text = "Remove";
             this.button3.UseVisualStyleBackColor = true;
@@ -101,12 +102,23 @@
             this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // button4
+            // 
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.Location = new System.Drawing.Point(681, 12);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(89, 54);
+            this.button4.TabIndex = 9;
+            this.button4.Text = "Reconfigure";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.button3);
@@ -126,6 +138,7 @@
         private System.Windows.Forms.Button Future;
         private System.Windows.Forms.CheckedListBox checkedListBox1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button4;
     }
 }
 

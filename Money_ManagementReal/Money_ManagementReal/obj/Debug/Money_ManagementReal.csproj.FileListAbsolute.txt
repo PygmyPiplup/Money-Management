@@ -7,3 +7,12 @@ C:\Users\dumf512r02\Source\Repos\Money_ManagementReal\Money_ManagementReal\obj\D
 C:\Users\dumf512r02\Source\Repos\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.csproj.GenerateResource.cache
 C:\Users\dumf512r02\Source\Repos\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.exe
 C:\Users\dumf512r02\Source\Repos\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.pdb
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\bin\Debug\Money_ManagementReal.exe.config
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\bin\Debug\Money_ManagementReal.exe
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\bin\Debug\Money_ManagementReal.pdb
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.csprojAssemblyReference.cache
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.Form1.resources
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.Properties.Resources.resources
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.csproj.GenerateResource.cache
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.exe
+C:\Users\dumf512r02\Documents\GitHub\Money-Management\Money_ManagementReal\Money_ManagementReal\obj\Debug\Money_ManagementReal.pdb
